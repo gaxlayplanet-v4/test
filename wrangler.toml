@@ -9,6 +9,9 @@ keep_vars = true
 [vars]
 #UUID = ""
 
-PROXYIP = "cdn-b100.xn--b6gac.eu.org"
-PROXY_LIST_URL = "https://galaxytunnel.github.io/PROXYIP.txt"
+PROXYIP = [
+    "31.58.9.4:6077",
+    "194.39.32.164:6461"
+];
+
 DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
