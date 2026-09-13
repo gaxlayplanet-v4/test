@@ -12,6 +12,5 @@ keep_vars = true
 PROXYIP = [
     "31.58.9.4:6077",
     "194.39.32.164:6461"
-];
-
+]
 DNS_RESOLVER_URL = "https://cloudflare-dns.com/dns-query"
