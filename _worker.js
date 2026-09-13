@@ -11,23 +11,8 @@ let proxyListURL = "";
 // CLEAN PROXY POOL (dead domains removed)
 // ============================================
 const PROXY_POOL = [
-    "cdn.xn--b6gac.eu.org",
-    "cdn-all.xn--b6gac.eu.org", 
-    "cdn-b100.xn--b6gac.eu.org",
-    "workers.cloudflare.com",
-    "www.visa.com",
-    "www.visakorea.com",
-    "africa.visa.com",
-    "www.visa.com.sg",
-    "www.visa.com.hk",
-    "www.visasoutheasteurope.com",
-    "icook.hk",
-    "ip.sb",
-    "japan.com",
-    "malaysia.com",
-    "russia.com",
-    "www.gov.se",
-    "www.gco.gov.qa",
+    "31.58.9.4:6077",
+    "194.39.32.164:6461"
 ];
 
 // ============================================
